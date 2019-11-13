@@ -1,4 +1,4 @@
-# Smart Energy
+# Deep learning practice using Tensorflow
 ## Introduction to Tensorflow
 - Environment setup  
 - Tensors and operations based on eager execution  
